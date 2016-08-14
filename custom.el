@@ -20,7 +20,7 @@
  '(font-latex-sedate-face ((((class color) (background light)) (:foreground "gold"))))
  '(font-lock-comment-face ((t (:foreground "orange3"))))
  '(font-lock-doc-string-face ((t (:foreground "Wheat3"))))
- '(font-lock-function-name-face ((t (:foreground "blue"))))
+ '(font-lock-function-name-face ((t (:foreground "red"))))
  '(font-lock-keyword-face ((t (:foreground "gold"))))
  '(font-lock-preprocessor-face ((t (:foreground "red"))))
  '(font-lock-reference-face ((t (:foreground "orangered"))))
